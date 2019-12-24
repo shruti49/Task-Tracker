@@ -1,0 +1,14 @@
+ul.todo-list {
+  list-style: none;
+  margin: 0 30px;
+  height: 400px;
+}
+
+.todo-item {
+  background-color: #b82d6e;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #fff;
+}
